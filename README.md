@@ -1,1 +1,1 @@
-# node-core
+# Node Core
